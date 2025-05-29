@@ -37,7 +37,7 @@ Este es un dashboard no tan complejo dado que la información fue extraída de u
 | ----------- | ----------- |
 |![población mundial](https://github.com/user-attachments/assets/51e84e98-8a89-4631-a279-9421e327c2ce)|![indicadores mundiales](https://github.com/user-attachments/assets/e75a186f-b296-4a90-b262-dbe590ae3f5b)|
 
-| Diagrama de datos relacionado | Agregado de columnas en Power Query | Comparativo America vs Africa (entre 1 y 10) Mill | 
+| Diagrama de datos relacionado | Agregado de columnas en Power Query | Comparativo America vs Africa (entre 10 y 100) Mill | 
 | ----------- | ----------- | ----------- |
 |![población mundial diagrama de datos](https://github.com/user-attachments/assets/077c1a8f-d491-4202-ba2f-dd838333357b)|![población mundial segmentadores](https://github.com/user-attachments/assets/2ce801a6-c34f-42e6-a8df-93d8fa005f60)|![población mundial America vs Africa](https://github.com/user-attachments/assets/30276214-632b-4664-bea0-d14e64a7fc57)|
 
