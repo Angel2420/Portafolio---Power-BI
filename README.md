@@ -67,9 +67,9 @@ Asimismo para agregar filtros personalizados se puede agregar nuevas columnas qu
 | ----------- | ----------- | ----------- |
 |![image](https://github.com/user-attachments/assets/9a4e618b-b1b8-4fc4-842e-25a5e2b8ede3)|![image](https://github.com/user-attachments/assets/bd9f4c63-4c73-42a6-97d2-d0419d21e98f)|![image](https://github.com/user-attachments/assets/9d71d974-e3b6-4952-a4d4-6f4ac593f66a)|
 
-En este reporte de igual manera que el anterior se requiere relacionar tablas, sin embargo, tambien se le añade una tabla que no está relacionada, esta "Medidas" sirve como un repositorio de medidas DAX con la dfinalidad de mantener todo bien organizado, entre algunas funaciones utilizadas están: AVERAGE(), COUNTROWS(), CALCULATE(), FILTER(), RELATED(), SWITCH(), SUM(), MAX(), MIN(), YEARFRAC(), TODAY(), INT().
+En este reporte de igual manera que el anterior se requiere relacionar tablas, sin embargo, tambien se le añade una tabla que no está relacionada, esta tabla "Medidas" sirve como un repositorio de medidas DAX con la finalidad de mantener todo bien organizado, entre algunas funaciones utilizadas están: AVERAGE(), COUNTROWS(), CALCULATE(), FILTER(), RELATED(), SWITCH(), SUM(), MAX(), MIN(), YEARFRAC(), TODAY(), INT().
 
-Tambien es necesario segmentar por sueldo, evaluacion, edad. Si biene s cierto que se puede realizar desde Power Query, tambien se puede acudir a la "vista tabla" y agregar columnas por medio de DAX.
+Tambien es necesario segmentar por sueldo, evaluacion, edad. Si bien es cierto que se puede realizar desde Power Query, tambien se puede acudir a la "vista tabla" y agregar columnas por medio de DAX.
 
 El empleo de botones en este proyecto suele ser de gran ayuda para darle la acción de navegar entre los dashboards disponibles, asimismo, su formato ayuda a ubicarnos de manera más sencilla.
 
